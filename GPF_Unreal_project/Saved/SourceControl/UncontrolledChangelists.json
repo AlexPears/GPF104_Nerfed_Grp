@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alexp/OneDrive/Documents/GitHub/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/FirstPerson/Input/Actions/IA_Reload.uasset",
+				"C:/Users/alexp/OneDrive/Documents/GitHub/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/alexp/OneDrive/Documents/GitHub/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/3E/N0J5LHEO18YDB6FIGEOHFV.uasset",
+				"C:/Users/alexp/OneDrive/Documents/GitHub/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/alexp/OneDrive/Documents/GitHub/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/XO/8IRTZXCVE77CSJSGSEXAP0.uasset",
+				"C:/Users/alexp/OneDrive/Documents/GitHub/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/FirstPerson/Blueprints/HUD_BP.uasset",
 				"C:/Users/alexp/OneDrive/Documents/Unreal Projects/Test/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/alexp/OneDrive/Documents/Unreal Projects/Test/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
 				"C:/Users/alexp/OneDrive/Documents/Unreal Projects/Test/Content/FirstPersonArms/Animations/Nerf_Blaster_Fire.uasset",
