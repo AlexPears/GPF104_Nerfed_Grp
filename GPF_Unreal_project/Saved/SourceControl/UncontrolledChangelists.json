@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/20190721sotah1/Documents/GitHub/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"/Users/20190721sotah1/Documents/GitHub/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/unreal/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/UI/cursor_widget.uasset",
 				"D:/unreal/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/UI/mini_cursor.uasset",
 				"D:/unreal/GPF104_Nerfed_Grp/GPF_Unreal_project/Content/UI/themenumap.umap",
